@@ -1,0 +1,13 @@
+[package]
+name = "grapefruit"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Kevin Herro kvherro@gmail.com"]
+rust-version = "1.69.0"
+description = "grapefruit is a Rust-native UI toolkit"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
